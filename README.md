@@ -12,11 +12,6 @@ This is a simple barebones todolist project that allows you to add and remove ta
    - `quit`: This option allows you to exit the todolist application.
    - If you enter any other input, you will see an "Invalid input" message.
 
-3. To add a new task, enter `new` and follow the prompts to enter the task description. Repeat this step to add multiple tasks.
-4. To view the list of tasks, enter `list`. A dialog box will appear displaying all the tasks in the list.
-5. To delete a task, enter `delete` and follow the prompt to enter the task you want to delete. If the task is found, it will be removed from the list and you will see a "Task deleted successfully" message. If the task is not found, you will see a "Task not found" message.
-6. To exit the todolist application, enter `quit`.
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
