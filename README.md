@@ -2,6 +2,8 @@
 
 This is a simple barebones todolist project that allows you to add and remove tasks from a list.
 
+[codepen](https://codepen.io/Brndnrphl/pen/BaMzbWw)
+
 ## Usage
 
 1. Open the index.html file in your web browser.
